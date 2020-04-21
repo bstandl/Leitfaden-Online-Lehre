@@ -1,0 +1,10 @@
+- name: Home
+  link: index.html
+- name: Settings
+  link: settings.html
+- name: Kleinformen
+  link: kleinformen.html
+- name: Tools
+  link: tools.html
+- name: Meetiquette
+  link: meeting.html
